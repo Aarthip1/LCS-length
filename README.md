@@ -1,2 +1,2 @@
-# LCS-length
+# LPS-length
 Length of longest palindromic substring
